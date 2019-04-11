@@ -1,0 +1,7 @@
+hostname,ip,interface,neighbor
+linux,192.168.0.10,eth0,windows
+linux,192.168.1.10,eth1,freebsd
+windows,192.168.0.11,eth0,linux
+windows,192.168.2.11,eth1,freebsd
+freebsd,192.168.1.12,eth0,linux
+freebsd,192.168.2.12,eth1,windows

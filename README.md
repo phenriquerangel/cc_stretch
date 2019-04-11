@@ -28,7 +28,7 @@ The challanges can be resolve by using Windows, but i will not comment about thi
 
 For each directory here, a challange will be available to be executed, to participate each person must create a fork of this repository and resolve the challange, making a pull request with of the resolved challange as your way.
 
-Inside directory must contain a jupyter notebook to explain what who create challange define necessary to be executed. 
+Inside directory must contain a jupyter notebook to explain what who create challange define necessary to be executed and a README explain the challange. 
 
 #### First Steps
 
