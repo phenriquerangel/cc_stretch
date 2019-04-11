@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## Welcome to cc_stretch
 
-You can use the [editor on GitHub](https://github.com/kanazux/cc_stretch/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This repository was created to provide some challenges in the skills necessary for a sysadmin that need programming skills.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Operating System to Use
 
-### Markdown
+I prefer to use an unix OS to administrate systems, the OS's like linux and FreeBSD provide a lot of tools to connect in ssh sessions, edit files and manipulate data. I usually install FreeBSD in servers and Linux [Fedora](https://getfedora.org/pt_BR/) in the desktop and notebook to produce my work.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The challanges can be resolve by using Windows, but i will not comment about this, sorry!
 
-```markdown
-Syntax highlighted code block
+#### Shell
 
-# Header 1
-## Header 2
-### Header 3
+We will use shell scripts to create profiles and environment vars file
 
-- Bulleted
-- List
+#### Python
 
-1. Numbered
-2. List
+Python is so much easy to learn and a powerfull language to administrate operating systems like linux, FreeBSD and Windows.
 
-**Bold** and _Italic_ and `Code` text
+#### Ansible## Welcome to cc_stretch
 
-[Link](url) and ![Image](src)
-```
+This repository was created to provide some challenges in the skills necessary for a sysadmin that need programming skills.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### Shell
 
-### Jekyll Themes
+We will use shell scripts to create profiles and environment vars file
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kanazux/cc_stretch/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Python
 
-### Support or Contact
+Python is so much easy to learn and a powerfull language to administrate operating systems like linux, FreeBSD and Windows.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Ansible
+
+We will use ansible to administrate some remote services.
+
+### How the hell this repository will works?
+
+For each directory here, a challange will be available to be executed, to participate each person must create a fork of this repository and resolve the challange, making a pull request with of the resolved challange as your way.
+
+### [jupyter-notebook](https://jupyter.org/)
+
+Jupyter notebook is a powerful tool to teach coding skills, it provide a line of a shell to execute commands and the results step.
+
+#### First Steps
+
+Bellow have the steps to create a virtual environment aparted of your OS to play with the challange, including the installation of the jupyter notebook.
+
