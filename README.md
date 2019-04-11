@@ -79,5 +79,7 @@ Bellow have the steps to create a virtual environment aparted of your OS to play
     *Get in on the tmux session*
 
     ```console
-    jupyter-notebook
+    ~ kanazuchi [cc_stretch] (-> master): jupyter-notebook
     ```
+
+    ![jupyter.jpg](https://github.com/kanazux/cc_stretch/blob/master/images/jupyter.jpg)
