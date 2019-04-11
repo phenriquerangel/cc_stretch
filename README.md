@@ -48,3 +48,36 @@ Bellow have the steps to create a virtual environment aparted of your OS to play
     ```console
     ~ kanazuchi [cc_stretch] (-> master): source bin/activate
     ```
+
+* [TMUX](http://man.openbsd.org/OpenBSD-current/man1/tmux.1)
+
+    We will use tmux to keep a jupyter server up.
+
+    *INSTALL*
+    ```console
+    ~ kanazuchi [cc_stretch] (-> master): dnf install tmux
+    ```
+    *Init session*
+    ```console
+    ~ kanazuchi [cc_stretch] (-> master): tmux new -s jupyter
+    ```
+
+    *To get out from session press the keys Cntrl+b*
+
+    *Get in on the open session*
+    ```console
+    ~ kanazuchi [cc_stretch] (-> master): tmux att
+    ```
+
+* Jupyter
+
+    *INSTALL*
+    ```console
+    ~ kanazuchi [cc_stretch] (-> master): pip install jupyter
+    ```
+
+    *Get in on the tmux session*
+
+    ```console
+    jupyter-notebook
+    ```
