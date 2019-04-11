@@ -1,0 +1,7 @@
+# This is a syslogd data file with some example of log lines
+
+INFO: [2344] 04-12-19_12:31:03 Starting squid
+WARNING: [2334] 04-12-19_12:31:03 NTP server is out of range
+INFO: [1900] 04-12-19_12:31:04 NGINX is running with default config
+CRITICAL: [2432] 04-12-19_12:31:05 Squid process was killed. Trying to start a
+new process
