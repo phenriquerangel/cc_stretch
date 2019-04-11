@@ -20,4 +20,7 @@ the data format above:
 
 The name of the file must be the hostname with the extension .yml.
 
+Some instructions can be found in the ipynb bellow.
 ![parse_csv.ipynb](https://github.com/kanazux/cc_stretch/blob/master/parse_csv_file/files/parse_csv.ipynb)
+
+Consult the oficial documentation of python to learn more how do this challange.
