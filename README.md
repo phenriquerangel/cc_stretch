@@ -36,12 +36,15 @@ Bellow have the steps to create a virtual environment aparted of your OS to play
 
 * Virtualenv
 
-    *INSTALL*    ```console
+    *INSTALL*
+    ```console
     ~ kanazuchi [cc_stretch] (-> master): dnf install python3-virtualenv
     ```
-    *Create ENV*    ```console
+    *Create ENV*
+    ```console
     ~ kanazuchi [cc_stretch] (-> master): virtualenv --python python3.6 ´<work directory>´
     ```
-    *Activate ENV*    ```console
+    *Activate ENV*
+    ```console
     ~ kanazuchi [cc_stretch] (-> master): source bin/activate
     ```
