@@ -1,5 +1,7 @@
 #  virtualenv
 
+etc/*
+share/*
 bin/*
 lib64
 include/*

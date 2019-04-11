@@ -8,29 +8,19 @@ I prefer to use an unix OS to administrate systems, the OS's like linux and Free
 
 The challanges can be resolve by using Windows, but i will not comment about this, sorry!
 
-#### Shell
+#### Languages
 
-We will use shell scripts to create profiles and environment vars file
+* Shell
+* * We will use shell scripts to create profiles and environment vars file
+* Python
+* * Python is so much easy to learn and a powerfull language to administrate operating systems like linux, FreeBSD and Windows.
 
-#### Python
+#### Tools
 
-Python is so much easy to learn and a powerfull language to administrate operating systems like linux, FreeBSD and Windows.
-
-#### Ansible## Welcome to cc_stretch
-
-This repository was created to provide some challenges in the skills necessary for a sysadmin that need programming skills.
-
-#### Shell
-
-We will use shell scripts to create profiles and environment vars file
-
-#### Python
-
-Python is so much easy to learn and a powerfull language to administrate operating systems like linux, FreeBSD and Windows.
-
-#### Ansible
-
-We will use ansible to administrate some remote services.
+* Ansible
+* * We will use ansible to administrate some remote services.
+* TMUX
+* * TMUX is a tool to create a persist shell session, that do not close when you get out of the terminal.
 
 ### How the hell this repository will works?
 
@@ -44,3 +34,17 @@ Jupyter notebook is a powerful tool to teach coding skills, it provide a line of
 
 Bellow have the steps to create a virtual environment aparted of your OS to play with the challange, including the installation of the jupyter notebook.
 
+* Virtualenv
+
+    *INSTALL*
+    ```console
+    ~ kanazuchi [cc_stretch] (-> master): dnf install python3-virtualenv
+    ```
+    *Create ENV*
+    ```console
+    ~ kanazuchi [cc_stretch] (-> master): virtualenv --python python3.6 ´<work directory>´
+    ```
+    *Activate ENV*
+    ```console
+    ~ kanazuchi [cc_stretch] (-> master): source bin/activate
+    ```
