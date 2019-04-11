@@ -18,17 +18,17 @@ The challanges can be resolve by using Windows, but i will not comment about thi
 #### Tools
 
 * Ansible
-* * We will use ansible to administrate some remote services.
+    We will use ansible to administrate some remote services.
 * TMUX
-* * TMUX is a tool to create a persist shell session, that do not close when you get out of the terminal.
+    TMUX is a tool to create a persist shell session, that do not close when you get out of the terminal.
+* [jupyter-notebook](https://jupyter.org/)
+    Jupyter notebook is a powerful tool to teach coding skills, it provide a line of a shell to execute commands and the results step.
 
 ### How the hell this repository will works?
 
 For each directory here, a challange will be available to be executed, to participate each person must create a fork of this repository and resolve the challange, making a pull request with of the resolved challange as your way.
 
-### [jupyter-notebook](https://jupyter.org/)
-
-Jupyter notebook is a powerful tool to teach coding skills, it provide a line of a shell to execute commands and the results step.
+Inside directory must contain a jupyter notebook to explain what who create challange define necessary to be executed. 
 
 #### First Steps
 
@@ -81,5 +81,7 @@ Bellow have the steps to create a virtual environment aparted of your OS to play
     ```console
     ~ kanazuchi [cc_stretch] (-> master): jupyter-notebook
     ```
+    
+    Jupyter notebook will create a local web server in the address http://localhost:8888/tree
 
     ![jupyter.jpg](https://github.com/kanazux/cc_stretch/blob/master/images/jupyter.jpg)
