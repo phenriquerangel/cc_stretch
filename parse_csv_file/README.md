@@ -19,3 +19,5 @@ the data format above:
 ```
 
 The name of the file must be the hostname with the extension .yml.
+
+![parse_csv.ipynb](https://github.com/kanazux/cc_stretch/blob/master/parse_csv_file/files/parse_csv.ipynb)
