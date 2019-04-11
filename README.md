@@ -18,11 +18,11 @@ The challanges can be resolve by using Windows, but i will not comment about thi
 #### Tools
 
 * Ansible
-    We will use ansible to administrate some remote services.
+* * We will use ansible to administrate some remote services.
 * TMUX
-    TMUX is a tool to create a persist shell session, that do not close when you get out of the terminal.
+* * TMUX is a tool to create a persist shell session, that do not close when you get out of the terminal.
 * [jupyter-notebook](https://jupyter.org/)
-    Jupyter notebook is a powerful tool to teach coding skills, it provide a line of a shell to execute commands and the results step.
+* * Jupyter notebook is a powerful tool to teach coding skills, it provide a line of a shell to execute commands and the results step.
 
 ### How the hell this repository will works?
 
